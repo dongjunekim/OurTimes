@@ -9,7 +9,7 @@ import android.util.Log;
  * Created by 김동준 on 2016-06-14.
  */
 public class BroadCasts extends BroadcastReceiver {
-
+//
 
     @Override
     public void onReceive(Context context, Intent intent) {
